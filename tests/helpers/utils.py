@@ -1,6 +1,7 @@
 # coding: utf-8
 import os
 import json
+import pandas as pd
 
 # Mock responses path
 responses_path = {
